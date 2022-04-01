@@ -13,9 +13,6 @@ const pageStyles = {
 const headingStyles = {
   color: '#322C25',
 }
-const paragraphStyles = {
-  marginBottom: 48,
-}
 
 // markup
 const IndexPage = () => {
@@ -24,7 +21,7 @@ const IndexPage = () => {
       <title>Hell Yes Cat</title>
       <StaticImage alt="Hell Yes Cas Logotype" src="../images/logotype.svg"/>
       <h1 style={headingStyles}>
-        Hell Yes Cat is coming ...slow 
+        coming ...slow 
         <span role="img" aria-label="猴子遮臉">🙈</span>
       </h1>
       <p>不過，關於黑貓的傳說都是真的！</p>
