@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@splitbee/web": "^0.3.0",
+    "gatsby-plugin-cname": "^1.0.0",
     "gh-pages": "^3.2.3"
   }
 }
