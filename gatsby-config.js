@@ -3,7 +3,7 @@ module.exports = {
     title: `Hell Yes Cat`,
     siteUrl: `http://hellyes.cat`
   },
-  plugins: ["gatsby-plugin-cname","gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
+  plugins: ["gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/favicon.png"
