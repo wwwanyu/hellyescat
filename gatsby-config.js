@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Hell Yes Cat`,
-    siteUrl: `https://hellyes.cat`
+    siteUrl: `http://hellyes.cat`
   },
   plugins: ["gatsby-plugin-cname","gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
