@@ -1,7 +1,7 @@
 
-# Hell Yes Cat 地獄貓
+# Hell Yes Cat
 
-是一個關於黑貓的網站，關於黑貓的傳說都是真的。順便試用 Gastby 做暫時頁面。
+[Hell Yes Cat](https://hellyes.cat) 是一個關於黑貓的網站，關於黑貓的傳說都是真的。順便試用 Gastby 做暫時頁面。
 
 ---
 
