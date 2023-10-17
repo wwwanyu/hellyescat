@@ -1,0 +1,36 @@
+:root {
+    --color-light: #F0F0DC;
+}
+
+body {
+    margin: 0px;
+    background-color: var(--color-light);
+    font-family: 'Noto Serif TC', serif;
+}
+
+.gate {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    .closed {
+        position: absolute;
+        top: 0;
+    }
+
+    .opened {
+        opacity: 0;
+    }
+
+    &:hover {
+        .closed {
+            opacity: 0;
+        }
+
+        .opened {
+            opacity: 1;
+        }
+    }
+}
+
+.story-first {}
