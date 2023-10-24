@@ -31,8 +31,67 @@ const IndexPage = () => {
         </div>
       </main >
       <div className="d-flex flex-column justify-content-center">
+        <section className="container-lg mb-5">
+          <h1 className="fw-bold">黑貓跳棺材，死人變殭屍</h1>
+          <span className="fs-2">
+            <p className="my-5">
+              黑貓跟女巫被吃巫群眾追著，她們逃到公園爬到樹上，四周安靜了下來。<br />她們在樹上休息，女巫：「那些人也要抓你是因為他們聽說黑貓跳過棺材，死人就會變成殭屍。」黑貓翻黃眼覺得不耐煩。
+            </p>
+            <p className="my-5">
+              「要是真的就好了，我就整天跳棺材，超好玩的！」<br />
+              「那他們為什麼要抓你？」黑貓問。
+            </p>
+            <p className="my-5">
+              突然這棵樹劇烈搖晃，是里長伯帶領著吃巫群眾在鋸樹！女巫跟黑貓跳下樹全力狂奔，女巫對著黑貓大喊：「我知道該怎麼擺脫他們了，跟著我！」黑貓回應了響亮的一聲：「喵！」。
+            </p>
+            <div className="text-center mb-5">
+              <StaticImage alt="" src="../images/hunting.png" /><br />
+            </div>
+            <p className="my-5">
+              她們跑到殯儀館，停在一副棺材前，女巫轉身面向吃巫群眾，這時氣場逆轉，女巫跟黑貓竟然跑到殯儀館停在一具棺材前面！看得出來吃巫者是很膽小的，跟在外圍的早就開溜了，帶頭的里長伯眼也覺得毛毛的，好想回家，但是有支持者跟著，這樣就回家太丟臉了，真希望自己是乖乖在家裡看政論節目。</p>
+            <p className="my-5">
+              黑貓壓低上半身，抬高屁股輕輕的扭動，準備跳躍的動作引發吃巫者第二批逃難潮，只剩下不到十個吃巫仔了。
+            </p>
+            <p className="my-5">
+              吃巫仔逃跑同時，黑貓輕盈跳過棺材，但什麼事都沒發生。<br />
+              黑貓回頭再跳一次，棺材還是沒有動靜。
+            </p>
+            <p className="my-5">
+              吃巫群眾開始嘲笑鼓譟。黑貓又跳到棺材蓋上，走了幾步聞一聞，用爪子撥了幾下，看起來有點無奈，乾脆坐在棺材蓋上。
+            </p>
+            <p className="my-5">
+              黑貓：「現在怎麼辦啦！」<br />
+              女巫：「該不會是空的棺材 ... 試試看跳別的？」
+            </p>
+            <p className="my-5">
+              吃巫群眾佔回上風，他們試著再次包圍女巫跟黑貓。
+            </p>
+            <p className="my-5">
+              突然棺材蓋子被推動了！
+            </p>
+            <p className="my-5">
+              里長伯發出淒厲的叫聲逃跑了，黑貓被人類淒厲的叫聲嚇到，耳朵緊緊貼著後腦勺，模糊黑影像閃電瞬間消失。
+            </p>
+            <p className="my-5">
+              女巫也是第一次遇到這種狀況，出於本能朝著吃巫群眾的反方向逃跑。
+            </p>
+            <p className="my-5">
+              四周恢復平靜。
+            </p>
+            <p className="my-5">
+              棺材裡的殭屍緩慢爬出棺材，嘴裡念念有詞：<br />
+              「Hello hell world … hell … world, hello? Hello, hell world ... 」
+            </p>
+          </span>
+        </section>
+        <div role="hr" className="text-center mb-5">
+          <StaticImage alt="" src="../images/bone.png" /><br />
+          <StaticImage alt="" src="../images/bone.png" /><br />
+          <StaticImage alt="" src="../images/bone.png" />
+        </div>
         <section className="container-lg">
-          <p className="fs-1 my-4">
+          <h1 className="fw-bold">貓有九條命</h1>
+          <p className="fs-2 my-4">
             民間相傳，第一隻死去的貓就是黑色的。
           </p>
           <p className="fs-2">
@@ -80,58 +139,6 @@ const IndexPage = () => {
           <div className="text-center mb-5">
             <StaticImage alt="第一隻死掉的黑貓跟冥王" src="../images/first-dead-cat-and-officegod.png" />
           </div>
-        </section>
-        <section className="container-lg mb-5">
-          <h1>黑貓跳棺材，死人變殭屍</h1>
-          <span className="fs-2">
-            <p className="my-5">
-              黑貓跟女巫被吃巫群眾追著，她們逃到公園爬到樹上，四周安靜了下來。<br />她們在樹上休息，女巫：「那些人也要抓你是因為他們聽說黑貓跳過棺材，死人就會變成殭屍。」黑貓翻黃眼覺得不耐煩。
-            </p>
-            <p className="my-5">
-
-              「要是真的就好了，我就整天跳棺材，超好玩的！」<br />
-              「那他們為什麼要抓你？」黑貓問。
-            </p>
-            <p className="my-5">
-
-              突然這棵樹劇烈搖晃，是里長伯帶領著吃巫群眾在鋸樹！女巫跟黑貓跳下樹全力狂奔，女巫對著黑貓大喊：「我知道該怎麼擺脫他們了，跟著我！」黑貓回應了響亮的一聲：「喵！」。
-            </p>
-            <p className="my-5">
-              她們跑到殯儀館，停在一副棺材前，女巫轉身面向吃巫群眾，這時氣場逆轉，女巫跟黑貓竟然跑到殯儀館停在一具棺材前面！看得出來吃巫者是很膽小的，跟在外圍的早就開溜了，帶頭的里長伯眼也覺得毛毛的，好想回家，但是有支持者跟著，這樣就回家太丟臉了，真希望自己是乖乖在家裡看政論節目。</p>
-            <p className="my-5">
-              黑貓壓低上半身，抬高屁股輕輕的扭動，準備跳躍的動作引發吃巫者第二批逃難潮，只剩下不到十個吃巫仔了。
-            </p>
-            <p className="my-5">
-              吃巫仔逃跑同時，黑貓輕盈跳過棺材，但什麼事都沒發生。<br />
-              黑貓回頭再跳一次，棺材還是沒有動靜。
-            </p>
-            <p className="my-5">
-              吃巫群眾開始嘲笑鼓譟。黑貓又跳到棺材蓋上，走了幾步聞一聞，用爪子撥了幾下，看起來有點無奈，乾脆坐在棺材蓋上。
-            </p>
-            <p className="my-5">
-              黑貓：「現在怎麼辦啦！」<br />
-              女巫：「該不會是空的棺材 ... 試試看跳別的？」
-            </p>
-            <p className="my-5">
-              吃巫群眾佔回上風，他們試著再次包圍女巫跟黑貓。
-            </p>
-            <p className="my-5">
-              突然棺材蓋子被推動了！
-            </p>
-            <p className="my-5">
-              里長伯發出淒厲的叫聲逃跑了，黑貓被人類淒厲的叫聲嚇到，耳朵緊緊貼著後腦勺，模糊黑影像閃電瞬間消失。
-            </p>
-            <p className="my-5">
-              女巫也是第一次遇到這種狀況，出於本能朝著吃巫群眾的反方向逃跑。
-            </p>
-            <p className="my-5">
-              四周恢復平靜。
-            </p>
-            <p className="my-5">
-              棺材裡的殭屍緩慢得爬出棺材，嘴裡還不停的重複說著：<br />
-              「Hello hell world … hell … world, hello? Hello, hell world ... 」
-            </p>
-          </span>
         </section>
       </div >
 
